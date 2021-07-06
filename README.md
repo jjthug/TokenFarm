@@ -1,5 +1,5 @@
 # TokenFarm
-Issue TokenFarm tokens to those who stake Dai Tokens
+Issue TokenFarm tokens to those who stake Mock Dai Tokens
 
 #Use Truffle, Ganache
 
