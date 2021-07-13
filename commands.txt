@@ -1,0 +1,9 @@
+truffle compile
+truffle migrate
+truffle migrate --reset
+truffle test
+truffle exec script/issue-tokens.js
+touch file.js
+mkdir scripts
+
+npm run start
